@@ -1,16 +1,14 @@
 name: Generate CHUNITHM data.json
 
-# manual, scheduled, and push triggers
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '0 2 * * *' # daily at 02:00 UTC; adjust if needed
+    - cron: '0 2 * * *' # daily at 02:00 UTC
   push:
     branches:
       - main
       - master
 
-# grant write permission so workflow can commit the generated file back
 permissions:
   contents: write
 
@@ -23,7 +21,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          # persist-credentials is true by default and allows pushing with GITHUB_TOKEN
 
       - name: Use Node.js 18
         uses: actions/setup-node@v4
@@ -36,32 +33,49 @@ jobs:
 
       - name: Prepare DB config
         run: |
-          # Copy example DB config so sequelize uses default sqlite storage
+          # Use the example DB config (sqlite) unless a custom dbconfig.js is present
           if [ -f dbconfig.example.js ] && [ ! -f dbconfig.js ]; then
             cp dbconfig.example.js dbconfig.js
           fi
 
       - name: Run DB migrations
         run: |
-          # Create the per-game sqlite DB files under data/<game>/db.sqlite3
           npm run db:migrate:all
+
+      - name: Fetch CHUNITHM songs (populate DB)
+        # This step fetches the basic song list that gen-json uses.
+        # Optional extra fetches (intl sheets, extras) require secrets and are not run here.
+        run: |
+          npm run chunithm:fetch-songs
 
       - name: Generate CHUNITHM data.json
         env:
           NODE_OPTIONS: --max-old-space-size=2048
-          # Map any required secrets here:
+          # If you need additional data (sheet extras / internal levels), set these secrets in the repo settings:
           # CHUNITHM_CHUNIREC_ACCESS_TOKEN: ${{ secrets.CHUNITHM_CHUNIREC_ACCESS_TOKEN }}
           # CHUNITHM_INTL_SEGA_ID: ${{ secrets.CHUNITHM_INTL_SEGA_ID }}
           # CHUNITHM_INTL_SEGA_PASSWORD: ${{ secrets.CHUNITHM_INTL_SEGA_PASSWORD }}
         run: |
           npm run chunithm:gen-json
 
+      - name: Ensure generated file exists and create compatibility copy
+        run: |
+          if [ ! -f dist/chunithm/data.json ]; then
+            echo "[!] ERROR: dist/chunithm/data.json not found"
+            ls -la dist || true
+            exit 1
+          fi
+          # create a compatibility copy under data/chunithm (some existing workflows expect that path)
+          mkdir -p data/chunithm
+          cp dist/chunithm/data.json data/chunithm/data.json
+
       - name: Upload artifact (data.json)
-        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: chunithm-data
-          path: dist/chunithm/data.json
+          path: |
+            dist/chunithm/data.json
+            data/chunithm/data.json
 
       - name: Commit generated data.json back to repository
         if: github.event_name != 'pull_request'
@@ -72,12 +86,9 @@ jobs:
           git config user.name "$GIT_AUTHOR_NAME"
           git config user.email "$GIT_AUTHOR_EMAIL"
 
-          if [ ! -f dist/chunithm/data.json ]; then
-            echo "No generated file found, skipping commit"
-            exit 0
-          fi
+          git add dist/chunithm/data.json data/chunithm/data.json || true
 
-          git add dist/chunithm/data.json
+          # Only commit when there are changes
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
@@ -85,5 +96,5 @@ jobs:
 
           git commit -m "chore: update generated CHUNITHM data.json [skip ci]"
 
-          # push back to the same branch that triggered the workflow (GITHUB_TOKEN used automatically)
+          # Push back to the branch that triggered the workflow (GITHUB_TOKEN is used automatically)
           git push
