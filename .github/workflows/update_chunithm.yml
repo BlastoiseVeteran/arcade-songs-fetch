@@ -43,11 +43,21 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Force add the ignored file
+          echo "[*] Checking if data.json was actually generated..."
+          if [ ! -f "data/chunithm/data.json" ]; then
+            echo "[!] ERROR: data.json DOES NOT EXIST."
+            echo "[!] The scraper failed to generate the file. Here is what is in the data folder:"
+            ls -la data/
+            ls -la data/chunithm/ || echo "chunithm folder missing too!"
+            exit 1
+          fi
+          
+          echo "[*] File found! Forcing Git to track it..."
           git add -f data/chunithm/data.json
           
-          # Commit the file, bypassing the diff check entirely so it won't crash
+          echo "[*] Committing changes..."
           git commit -m "Auto-update CHUNITHM data.json" || echo "No changes to commit."
           
-          # Force push directly to the main branch
-          git push -f origin HEAD:master
+          echo "[*] Pushing to repository..."
+          # Using HEAD automatically pushes to whatever your default branch is (master or main)
+          git push -f origin HEAD
