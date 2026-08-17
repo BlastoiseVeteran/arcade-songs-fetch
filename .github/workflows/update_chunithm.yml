@@ -1,10 +1,16 @@
-name: Auto-Generate CHUNITHM data.json
+name: Generate CHUNITHM data.json
 
+# manual, scheduled, and push triggers
 on:
+  workflow_dispatch: {}
   schedule:
-    - cron: '0 0 * * 0'
-  workflow_dispatch:
+    - cron: '0 2 * * *' # daily at 02:00 UTC; adjust if needed
+  push:
+    branches:
+      - main
+      - master
 
+# grant write permission so workflow can commit the generated file back
 permissions:
   contents: write
 
@@ -15,51 +21,69 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          # persist-credentials is true by default and allows pushing with GITHUB_TOKEN
 
-      - name: Setup Node.js
+      - name: Use Node.js 18
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: '18'
+          cache: 'npm'
 
-      - name: Setup Configuration Files
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Prepare DB config
         run: |
-          cp .env.example .env
-          cp dbconfig.example.js dbconfig.js
-
-      - name: Install Dependencies
-        run: npm install
-
-      - name: Migrate Database Schema
-        run: npm run db:migrate:all
-
-      - name: Fetch Song Data from SEGA JP
-        run: |
-          npm run chunithm:fetch-songs || { echo "[!] Failed to fetch songs"; exit 1; }
-  
-      - name: Generate JSON
-        run: |
-          npm run chunithm:gen-json || { echo "[!] Failed to generate JSON"; exit 1; }
-
-      - name: Force Commit and Push data.json
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          echo "[*] Checking if data.json was actually generated..."
-          if [ ! -f "data/chunithm/data.json" ]; then
-            echo "[!] ERROR: data.json DOES NOT EXIST."
-            echo "[!] The scraper failed to generate the file. Here is what is in the data folder:"
-            ls -la data/
-            ls -la data/chunithm/ || echo "chunithm folder missing too!"
-            exit 1
+          # Copy example DB config so sequelize uses default sqlite storage
+          if [ -f dbconfig.example.js ] && [ ! -f dbconfig.js ]; then
+            cp dbconfig.example.js dbconfig.js
           fi
-          
-          echo "[*] File found! Forcing Git to track it..."
-          git add -f data/chunithm/data.json
-          
-          echo "[*] Committing changes..."
-          git commit -m "Auto-update CHUNITHM data.json" || echo "No changes to commit."
-          
-          echo "[*] Pushing to repository..."
-          # Using HEAD automatically pushes to whatever your default branch is (master or main)
-          git push -f origin HEAD
+
+      - name: Run DB migrations
+        run: |
+          # Create the per-game sqlite DB files under data/<game>/db.sqlite3
+          npm run db:migrate:all
+
+      - name: Generate CHUNITHM data.json
+        env:
+          NODE_OPTIONS: --max-old-space-size=2048
+          # Map any required secrets here:
+          # CHUNITHM_CHUNIREC_ACCESS_TOKEN: ${{ secrets.CHUNITHM_CHUNIREC_ACCESS_TOKEN }}
+          # CHUNITHM_INTL_SEGA_ID: ${{ secrets.CHUNITHM_INTL_SEGA_ID }}
+          # CHUNITHM_INTL_SEGA_PASSWORD: ${{ secrets.CHUNITHM_INTL_SEGA_PASSWORD }}
+        run: |
+          npm run chunithm:gen-json
+
+      - name: Upload artifact (data.json)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: chunithm-data
+          path: dist/chunithm/data.json
+
+      - name: Commit generated data.json back to repository
+        if: github.event_name != 'pull_request'
+        env:
+          GIT_AUTHOR_NAME: "github-actions[bot]"
+          GIT_AUTHOR_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+        run: |
+          git config user.name "$GIT_AUTHOR_NAME"
+          git config user.email "$GIT_AUTHOR_EMAIL"
+
+          if [ ! -f dist/chunithm/data.json ]; then
+            echo "No generated file found, skipping commit"
+            exit 0
+          fi
+
+          git add dist/chunithm/data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update generated CHUNITHM data.json [skip ci]"
+
+          # push back to the same branch that triggered the workflow (GITHUB_TOKEN used automatically)
+          git push
