@@ -1,0 +1,53 @@
+name: Auto-Generate CHUNITHM data.json
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Setup Configuration Files
+        run: |
+          cp .env.example .env
+          cp dbconfig.example.js dbconfig.js
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Migrate Database Schema
+        run: npm run db:migrate:all
+
+      - name: Fetch Song Data from SEGA JP
+        run: npm run chunithm:fetch-songs
+
+      - name: Generate JSON
+        run: npm run chunithm:gen-json
+
+      - name: Force Commit and Push data.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Force add the ignored file
+          git add -f data/chunithm/data.json
+          
+          # Commit the file, bypassing the diff check entirely so it won't crash
+          git commit -m "Auto-update CHUNITHM data.json" || echo "No changes to commit."
+          
+          # Force push directly to the main branch
+          git push -f origin HEAD:master
