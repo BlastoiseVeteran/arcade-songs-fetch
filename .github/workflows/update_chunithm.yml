@@ -33,10 +33,12 @@ jobs:
         run: npm run db:migrate:all
 
       - name: Fetch Song Data from SEGA JP
-        run: npm run chunithm:fetch-songs
-
+        run: |
+          npm run chunithm:fetch-songs || { echo "[!] Failed to fetch songs"; exit 1; }
+  
       - name: Generate JSON
-        run: npm run chunithm:gen-json
+        run: |
+          npm run chunithm:gen-json || { echo "[!] Failed to generate JSON"; exit 1; }
 
       - name: Force Commit and Push data.json
         run: |
