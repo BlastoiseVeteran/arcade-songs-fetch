@@ -175931,6 +175931,418 @@
 			]
 		},
 		{
+			"songId": "On And On!!",
+			"category": "VARIETY",
+			"title": "On And On!!",
+			"artist": "ETIA. feat. Jenga",
+			"bpm": null,
+			"imageName": "039f794aae50a341bf1b2d3abbb7dfb4cc060e9137c085aa4fc6bfe88124a1ef.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": "8.0",
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.5,
+					"internalLevel": null,
+					"internalLevelValue": 14.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "E.V.E",
+			"category": "VARIETY",
+			"title": "E.V.E",
+			"artist": "SOMON",
+			"bpm": null,
+			"imageName": "c18ef7ce355917fae8bec0ce87b9bb7a918bdd219d1068b3783c6edb89a1478c.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.5,
+					"internalLevel": "7.5",
+					"internalLevelValue": 7.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "13+",
+					"levelValue": 13.5,
+					"internalLevel": null,
+					"internalLevelValue": 13.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "15",
+					"levelValue": 15,
+					"internalLevel": null,
+					"internalLevelValue": 15,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Glitch Street",
+			"category": "POPS & ANIME",
+			"title": "Glitch Street",
+			"artist": "KARUT「ブルーアーカイブ -Blue Archive-」",
+			"bpm": null,
+			"imageName": "a1e623cec490ecfea3ae2c1f171cb3b9c0a5da105add2866b4272c8de507690f.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.5,
+					"internalLevel": null,
+					"internalLevelValue": 14.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Bunny Bunny Carrot Carrot",
+			"category": "POPS & ANIME",
+			"title": "Bunny Bunny Carrot Carrot",
+			"artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+			"bpm": null,
+			"imageName": "ba87ab72752ce724e59d55c3009b16aab8fee55fc3990b344fdbf999e43191ad.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.5,
+					"internalLevel": null,
+					"internalLevelValue": 10.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
 			"songId": "Hello! My World!!",
 			"category": "VARIETY",
 			"title": "Hello! My World!!",
@@ -176343,115 +176755,12 @@
 			]
 		},
 		{
-			"songId": "On And On!!",
-			"category": "VARIETY",
-			"title": "On And On!!",
-			"artist": "ETIA. feat. Jenga",
+			"songId": "コトバノ廃都",
+			"category": "ORIGINAL",
+			"title": "コトバノ廃都",
+			"artist": "ぽりふぉ(PolyphonicBranch) feat. 松下",
 			"bpm": null,
-			"imageName": "039f794aae50a341bf1b2d3abbb7dfb4cc060e9137c085aa4fc6bfe88124a1ef.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": "3.0",
-					"internalLevelValue": 3,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "8",
-					"levelValue": 8,
-					"internalLevel": "8.0",
-					"internalLevelValue": 8,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "11",
-					"levelValue": 11,
-					"internalLevel": null,
-					"internalLevelValue": 11,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "14+",
-					"levelValue": 14.5,
-					"internalLevel": null,
-					"internalLevelValue": 14.5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "E.V.E",
-			"category": "VARIETY",
-			"title": "E.V.E",
-			"artist": "SOMON",
-			"bpm": null,
-			"imageName": "c18ef7ce355917fae8bec0ce87b9bb7a918bdd219d1068b3783c6edb89a1478c.png",
+			"imageName": "0bfda02e221df924b6096e2e9fd4a700860e04838c611235b7a316b8fe96a551.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -176505,113 +176814,10 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "13+",
-					"levelValue": 13.5,
+					"level": "10+",
+					"levelValue": 10.5,
 					"internalLevel": null,
-					"internalLevelValue": 13.5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "15",
-					"levelValue": 15,
-					"internalLevel": null,
-					"internalLevelValue": 15,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "Glitch Street",
-			"category": "POPS & ANIME",
-			"title": "Glitch Street",
-			"artist": "KARUT「ブルーアーカイブ -Blue Archive-」",
-			"bpm": null,
-			"imageName": "a1e623cec490ecfea3ae2c1f171cb3b9c0a5da105add2866b4272c8de507690f.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": "3.0",
-					"internalLevelValue": 3,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": "6.0",
-					"internalLevelValue": 6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevelValue": 10.5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -176652,12 +176858,12 @@
 			]
 		},
 		{
-			"songId": "Bunny Bunny Carrot Carrot",
-			"category": "POPS & ANIME",
-			"title": "Bunny Bunny Carrot Carrot",
-			"artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+			"songId": "ふわパチ星雲PTL-3",
+			"category": "ORIGINAL",
+			"title": "ふわパチ星雲PTL-3",
+			"artist": "海茶、多良レイト feat. 桃寝ちのい",
 			"bpm": null,
-			"imageName": "ba87ab72752ce724e59d55c3009b16aab8fee55fc3990b344fdbf999e43191ad.png",
+			"imageName": "7d86820b648f994e6b5824c39060bdb8d94c2a632c01f8f66a1d57fe893065cd.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -176711,10 +176917,113 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "10+",
-					"levelValue": 10.5,
+					"level": "10",
+					"levelValue": 10,
 					"internalLevel": null,
-					"internalLevelValue": 10.5,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Fox Hunt",
+			"category": "ORIGINAL",
+			"title": "Fox Hunt",
+			"artist": "よしぶる feat.街風めい",
+			"bpm": null,
+			"imageName": "aeca298cf0bf6bc94e16a6917ec3114b5282e2100e557605a26a5a82c182c599.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -176737,6 +177046,109 @@
 					"levelValue": 14,
 					"internalLevel": null,
 					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "命スクリプト",
+			"category": "ORIGINAL",
+			"title": "命スクリプト",
+			"artist": "原口沙輔 feat.ななひら",
+			"bpm": null,
+			"imageName": "55fac301c98ce1bf141c0132654d48c0afa3490b9cf1ffa22a83c91bdc126b73.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.5,
+					"internalLevel": null,
+					"internalLevelValue": 13.5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -176939,5 +177351,5 @@
 			"name": "海外版 (International ver.)"
 		}
 	],
-	"updateTime": "2026-08-20T02:49:06.768Z"
+	"updateTime": "2026-08-21T02:54:34.898Z"
 }
