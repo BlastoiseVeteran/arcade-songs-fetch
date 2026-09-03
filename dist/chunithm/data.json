@@ -176343,6 +176343,418 @@
 			]
 		},
 		{
+			"songId": "コトバノ廃都",
+			"category": "ORIGINAL",
+			"title": "コトバノ廃都",
+			"artist": "ぽりふぉ(PolyphonicBranch) feat. 松下",
+			"bpm": null,
+			"imageName": "0bfda02e221df924b6096e2e9fd4a700860e04838c611235b7a316b8fe96a551.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.5,
+					"internalLevel": "7.5",
+					"internalLevelValue": 7.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.5,
+					"internalLevel": null,
+					"internalLevelValue": 10.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.5,
+					"internalLevel": null,
+					"internalLevelValue": 14.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "ふわパチ星雲PTL-3",
+			"category": "ORIGINAL",
+			"title": "ふわパチ星雲PTL-3",
+			"artist": "海茶、多良レイト feat. 桃寝ちのい",
+			"bpm": null,
+			"imageName": "7d86820b648f994e6b5824c39060bdb8d94c2a632c01f8f66a1d57fe893065cd.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Fox Hunt",
+			"category": "ORIGINAL",
+			"title": "Fox Hunt",
+			"artist": "よしぶる feat.街風めい",
+			"bpm": null,
+			"imageName": "aeca298cf0bf6bc94e16a6917ec3114b5282e2100e557605a26a5a82c182c599.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "命スクリプト",
+			"category": "ORIGINAL",
+			"title": "命スクリプト",
+			"artist": "原口沙輔 feat.ななひら",
+			"bpm": null,
+			"imageName": "55fac301c98ce1bf141c0132654d48c0afa3490b9cf1ffa22a83c91bdc126b73.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.5,
+					"internalLevel": null,
+					"internalLevelValue": 13.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
 			"songId": "Hello! My World!!",
 			"category": "VARIETY",
 			"title": "Hello! My World!!",
@@ -176755,12 +177167,12 @@
 			]
 		},
 		{
-			"songId": "コトバノ廃都",
-			"category": "ORIGINAL",
-			"title": "コトバノ廃都",
-			"artist": "ぽりふぉ(PolyphonicBranch) feat. 松下",
+			"songId": "Smell of the Game",
+			"category": "VARIETY",
+			"title": "Smell of the Game",
+			"artist": "NAOKI「GUILTY GEAR -STRIVE-」",
 			"bpm": null,
-			"imageName": "0bfda02e221df924b6096e2e9fd4a700860e04838c611235b7a316b8fe96a551.png",
+			"imageName": "da500f0011575d5f2742386fc705ffdedc1eff7714df975e2cd21a7c65782963.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -176836,10 +177248,10 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "14+",
-					"levelValue": 14.5,
+					"level": "14",
+					"levelValue": 14,
 					"internalLevel": null,
-					"internalLevelValue": 14.5,
+					"internalLevelValue": 14,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -176858,12 +177270,12 @@
 			]
 		},
 		{
-			"songId": "ふわパチ星雲PTL-3",
-			"category": "ORIGINAL",
-			"title": "ふわパチ星雲PTL-3",
-			"artist": "海茶、多良レイト feat. 桃寝ちのい",
+			"songId": "Find Your One Way",
+			"category": "VARIETY",
+			"title": "Find Your One Way",
+			"artist": "NAOKI「GUILTY GEAR -STRIVE-」",
 			"bpm": null,
-			"imageName": "7d86820b648f994e6b5824c39060bdb8d94c2a632c01f8f66a1d57fe893065cd.png",
+			"imageName": "2047198c8b2eecbbe74b02fe674cf9f61ac7c2cc4543afbb3471fa973c6533d9.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -176873,113 +177285,10 @@
 				{
 					"type": "std",
 					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": "3.0",
-					"internalLevelValue": 3,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": "6.0",
-					"internalLevelValue": 6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
-					"internalLevel": null,
-					"internalLevelValue": 10,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "Fox Hunt",
-			"category": "ORIGINAL",
-			"title": "Fox Hunt",
-			"artist": "よしぶる feat.街風めい",
-			"bpm": null,
-			"imageName": "aeca298cf0bf6bc94e16a6917ec3114b5282e2100e557605a26a5a82c182c599.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": "3.0",
-					"internalLevelValue": 3,
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -177064,12 +177373,12 @@
 			]
 		},
 		{
-			"songId": "命スクリプト",
-			"category": "ORIGINAL",
-			"title": "命スクリプト",
-			"artist": "原口沙輔 feat.ななひら",
+			"songId": "Drift",
+			"category": "VARIETY",
+			"title": "Drift",
+			"artist": "NAOKI「GUILTY GEAR -STRIVE-」",
 			"bpm": null,
-			"imageName": "55fac301c98ce1bf141c0132654d48c0afa3490b9cf1ffa22a83c91bdc126b73.png",
+			"imageName": "d530c008723d3b0fb7e283e6912cf2b9b443d350fb957c498508aeeb6ab9638a.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -177101,10 +177410,10 @@
 				{
 					"type": "std",
 					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": "6.0",
-					"internalLevelValue": 6,
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -177123,10 +177432,10 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "11",
-					"levelValue": 11,
+					"level": "12",
+					"levelValue": 12,
 					"internalLevel": null,
-					"internalLevelValue": 11,
+					"internalLevelValue": 12,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -177145,10 +177454,216 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "13+",
-					"levelValue": 13.5,
+					"level": "14+",
+					"levelValue": 14.5,
 					"internalLevel": null,
-					"internalLevelValue": 13.5,
+					"internalLevelValue": 14.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "The Disaster of Passion",
+			"category": "VARIETY",
+			"title": "The Disaster of Passion",
+			"artist": "AISHA「GUILTY GEAR -STRIVE-」",
+			"bpm": null,
+			"imageName": "a8eb0952b4b108147430923ce7375035e2b4b901b4510a4ab37d96174ad76948.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.5,
+					"internalLevel": "9.5",
+					"internalLevelValue": 9.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "JACKY [Remix]",
+			"category": "VARIETY",
+			"title": "JACKY [Remix]",
+			"artist": "バーチャファイター",
+			"bpm": null,
+			"imageName": "af5f1360c613aa3360582401eb8897042c5aa414952ad00ede5476c0c2e24f5e.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.5,
+					"internalLevel": "7.5",
+					"internalLevelValue": 7.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.5,
+					"internalLevel": null,
+					"internalLevelValue": 11.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -177351,5 +177866,5 @@
 			"name": "海外版 (International ver.)"
 		}
 	],
-	"updateTime": "2026-09-02T06:36:43.471Z"
+	"updateTime": "2026-09-03T06:39:41.928Z"
 }
