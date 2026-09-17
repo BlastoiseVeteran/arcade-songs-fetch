@@ -176343,6 +176343,521 @@
 			]
 		},
 		{
+			"songId": "Smell of the Game",
+			"category": "VARIETY",
+			"title": "Smell of the Game",
+			"artist": "NAOKI「GUILTY GEAR -STRIVE-」",
+			"bpm": null,
+			"imageName": "da500f0011575d5f2742386fc705ffdedc1eff7714df975e2cd21a7c65782963.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.5,
+					"internalLevel": "7.5",
+					"internalLevelValue": 7.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.5,
+					"internalLevel": null,
+					"internalLevelValue": 10.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Find Your One Way",
+			"category": "VARIETY",
+			"title": "Find Your One Way",
+			"artist": "NAOKI「GUILTY GEAR -STRIVE-」",
+			"bpm": null,
+			"imageName": "2047198c8b2eecbbe74b02fe674cf9f61ac7c2cc4543afbb3471fa973c6533d9.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Drift",
+			"category": "VARIETY",
+			"title": "Drift",
+			"artist": "NAOKI「GUILTY GEAR -STRIVE-」",
+			"bpm": null,
+			"imageName": "d530c008723d3b0fb7e283e6912cf2b9b443d350fb957c498508aeeb6ab9638a.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "12",
+					"levelValue": 12,
+					"internalLevel": null,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.5,
+					"internalLevel": null,
+					"internalLevelValue": 14.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "The Disaster of Passion",
+			"category": "VARIETY",
+			"title": "The Disaster of Passion",
+			"artist": "AISHA「GUILTY GEAR -STRIVE-」",
+			"bpm": null,
+			"imageName": "a8eb0952b4b108147430923ce7375035e2b4b901b4510a4ab37d96174ad76948.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.5,
+					"internalLevel": "9.5",
+					"internalLevelValue": 9.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "JACKY [Remix]",
+			"category": "VARIETY",
+			"title": "JACKY [Remix]",
+			"artist": "バーチャファイター",
+			"bpm": null,
+			"imageName": "af5f1360c613aa3360582401eb8897042c5aa414952ad00ede5476c0c2e24f5e.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.5,
+					"internalLevel": "7.5",
+					"internalLevelValue": 7.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.5,
+					"internalLevel": null,
+					"internalLevelValue": 11.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
 			"songId": "コトバノ廃都",
 			"category": "ORIGINAL",
 			"title": "コトバノ廃都",
@@ -177167,12 +177682,123 @@
 			]
 		},
 		{
-			"songId": "Smell of the Game",
-			"category": "VARIETY",
-			"title": "Smell of the Game",
-			"artist": "NAOKI「GUILTY GEAR -STRIVE-」",
+			"songId": "(WE) ヤババイナ",
+			"category": "WORLD'S END",
+			"title": "ヤババイナ",
+			"artist": "さたぱんP",
 			"bpm": null,
-			"imageName": "da500f0011575d5f2742386fc705ffdedc1eff7714df975e2cd21a7c65782963.png",
+			"imageName": "a93e5bc733476b533eed2a8f7b60ffb8bd3637cf72a2072c05c22c9a5d17bd5a.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "we",
+					"difficulty": "【狂】",
+					"level": "☆☆☆",
+					"levelValue": 103,
+					"internalLevel": null,
+					"internalLevelValue": 0,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "(WE) 黒塗り世界宛て書簡",
+			"category": "WORLD'S END",
+			"title": "黒塗り世界宛て書簡",
+			"artist": "フロクロ",
+			"bpm": null,
+			"imageName": "b1401f20166773f399ee83117a6200841fc8c9f40596a7f50f9b40c5a769e0c1.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "we",
+					"difficulty": "【止】",
+					"level": "☆☆☆",
+					"levelValue": 103,
+					"internalLevel": null,
+					"internalLevelValue": 0,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "(WE) 熱異常",
+			"category": "WORLD'S END",
+			"title": "熱異常",
+			"artist": "いよわ",
+			"bpm": null,
+			"imageName": "f6a71a66cb9655e0e5761639c098d07b99848f47d428b89cdb638289130edec7.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "we",
+					"difficulty": "【敷】",
+					"level": "☆☆☆",
+					"levelValue": 103,
+					"internalLevel": null,
+					"internalLevelValue": 0,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "Prismatic Theory",
+			"category": "ORIGINAL",
+			"title": "Prismatic Theory",
+			"artist": "荒谷サトル",
+			"bpm": null,
+			"imageName": "b1ccb3bbefe2413c1d777061f063721d5e33dd2c03ea7861ca66b055a60b4948.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -177204,10 +177830,10 @@
 				{
 					"type": "std",
 					"difficulty": "advanced",
-					"level": "7+",
-					"levelValue": 7.5,
-					"internalLevel": "7.5",
-					"internalLevelValue": 7.5,
+					"level": "8+",
+					"levelValue": 8.5,
+					"internalLevel": "8.5",
+					"internalLevelValue": 8.5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -177226,216 +177852,10 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "10+",
-					"levelValue": 10.5,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": null,
-					"internalLevelValue": 10.5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "14",
-					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "Find Your One Way",
-			"category": "VARIETY",
-			"title": "Find Your One Way",
-			"artist": "NAOKI「GUILTY GEAR -STRIVE-」",
-			"bpm": null,
-			"imageName": "2047198c8b2eecbbe74b02fe674cf9f61ac7c2cc4543afbb3471fa973c6533d9.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "2",
-					"levelValue": 2,
-					"internalLevel": "2.0",
-					"internalLevelValue": 2,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": "7.0",
-					"internalLevelValue": 7,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
-					"internalLevel": null,
-					"internalLevelValue": 10,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "14",
-					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "Drift",
-			"category": "VARIETY",
-			"title": "Drift",
-			"artist": "NAOKI「GUILTY GEAR -STRIVE-」",
-			"bpm": null,
-			"imageName": "d530c008723d3b0fb7e283e6912cf2b9b443d350fb957c498508aeeb6ab9638a.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": "3.0",
-					"internalLevelValue": 3,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": "7.0",
-					"internalLevelValue": 7,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "12",
-					"levelValue": 12,
-					"internalLevel": null,
-					"internalLevelValue": 12,
+					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -177476,12 +177896,12 @@
 			]
 		},
 		{
-			"songId": "The Disaster of Passion",
-			"category": "VARIETY",
-			"title": "The Disaster of Passion",
-			"artist": "AISHA「GUILTY GEAR -STRIVE-」",
+			"songId": "Knockout Ravebox",
+			"category": "ORIGINAL",
+			"title": "Knockout Ravebox",
+			"artist": "Hommarju",
 			"bpm": null,
-			"imageName": "a8eb0952b4b108147430923ce7375035e2b4b901b4510a4ab37d96174ad76948.png",
+			"imageName": "a2466235a9fc84417b07d9804fa64b98b244704765b7fcf25b82acfe7a788e20.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -177495,109 +177915,6 @@
 					"levelValue": 3,
 					"internalLevel": "3.0",
 					"internalLevelValue": 3,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": "7.0",
-					"internalLevelValue": 7,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "9+",
-					"levelValue": 9.5,
-					"internalLevel": "9.5",
-					"internalLevelValue": 9.5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "JACKY [Remix]",
-			"category": "VARIETY",
-			"title": "JACKY [Remix]",
-			"artist": "バーチャファイター",
-			"bpm": null,
-			"imageName": "af5f1360c613aa3360582401eb8897042c5aa414952ad00ede5476c0c2e24f5e.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "2",
-					"levelValue": 2,
-					"internalLevel": "2.0",
-					"internalLevelValue": 2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -177638,10 +177955,319 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "11+",
-					"levelValue": 11.5,
+					"level": "12",
+					"levelValue": 12,
 					"internalLevel": null,
-					"internalLevelValue": 11.5,
+					"internalLevelValue": 12,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "アンサレステラー",
+			"category": "ORIGINAL",
+			"title": "アンサレステラー",
+			"artist": "花徒めと",
+			"bpm": null,
+			"imageName": "bc804082a57e8a64d436e9f2e7676ffcffeb2a73c4645033137a1eca6f5b6760.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": "8.0",
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.5,
+					"internalLevel": null,
+					"internalLevelValue": 10.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.5,
+					"internalLevel": null,
+					"internalLevelValue": 14.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "[IMPERIALDISORDER]",
+			"category": "ORIGINAL",
+			"title": "[IMPERIALDISORDER]",
+			"artist": "Blacklolita",
+			"bpm": null,
+			"imageName": "78f1a40d7bd4857992e208f896a37088773c34394fe0987a07d752b4c76fe5b3.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": "4.0",
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": "9.0",
+					"internalLevelValue": 9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.5,
+					"internalLevel": null,
+					"internalLevelValue": 12.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "15",
+					"levelValue": 15,
+					"internalLevel": null,
+					"internalLevelValue": 15,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Colossus",
+			"category": "POPS & ANIME",
+			"title": "Colossus",
+			"artist": "加藤 浩義（ノイジークローク）",
+			"bpm": null,
+			"imageName": "7a30840913c686efa16b2f96f7911fe8ac9337c35cd2cac29191260bd4f5058f.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -177866,5 +178492,5 @@
 			"name": "海外版 (International ver.)"
 		}
 	],
-	"updateTime": "2026-09-16T06:58:19.417Z"
+	"updateTime": "2026-09-17T06:53:50.069Z"
 }
