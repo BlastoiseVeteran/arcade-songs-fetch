@@ -177506,6 +177506,315 @@
 			]
 		},
 		{
+			"songId": "Your Reality (Kenji Mizuno Remix)",
+			"category": "POPS & ANIME",
+			"title": "Your Reality (Kenji Mizuno Remix)",
+			"artist": "Dan Salvato／水野健治",
+			"bpm": null,
+			"imageName": "da791e30a6beab5e9e0142767ef197bf88ea5b4690f8a6262cf0c6ae40f2c718.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10",
+					"levelValue": 10,
+					"internalLevel": null,
+					"internalLevelValue": 10,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.5,
+					"internalLevel": null,
+					"internalLevelValue": 14.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "LaVI-Bavellabion",
+			"category": "POPS & ANIME",
+			"title": "LaVI-Bavellabion",
+			"artist": "三木谷奈々 SLAVE.V-V-R",
+			"bpm": null,
+			"imageName": "337510f8203896c68e9abc8cc3396fe637b01141adbd2d031764329a167ce435.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": "5.0",
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.5,
+					"internalLevel": "9.5",
+					"internalLevelValue": 9.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13+",
+					"levelValue": 13.5,
+					"internalLevel": null,
+					"internalLevelValue": 13.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "奇々解体",
+			"category": "VARIETY",
+			"title": "奇々解体",
+			"artist": "MURASAKI/かたたかんな",
+			"bpm": null,
+			"imageName": "2225f07bf689e768da73741a4d8e90c182e65c2f48cabcff43bd4e28dc732a00.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": "9.0",
+					"internalLevelValue": 9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
 			"songId": "ふわパチ星雲PTL-3",
 			"category": "ORIGINAL",
 			"title": "ふわパチ星雲PTL-3",
@@ -178330,12 +178639,12 @@
 			]
 		},
 		{
-			"songId": "Your Reality (Kenji Mizuno Remix)",
-			"category": "POPS & ANIME",
-			"title": "Your Reality (Kenji Mizuno Remix)",
-			"artist": "Dan Salvato／水野健治",
+			"songId": "雑魚",
+			"category": "niconico",
+			"title": "雑魚",
+			"artist": "柊マグネタイト",
 			"bpm": null,
-			"imageName": "da791e30a6beab5e9e0142767ef197bf88ea5b4690f8a6262cf0c6ae40f2c718.png",
+			"imageName": "ffb27b174402325f8a22b46a7a30e43f1e222b7c9bf5202ad7b9c71a22c79ff9.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -178345,216 +178654,10 @@
 				{
 					"type": "std",
 					"difficulty": "basic",
-					"level": "2",
-					"levelValue": 2,
-					"internalLevel": "2.0",
-					"internalLevelValue": 2,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "6",
-					"levelValue": 6,
-					"internalLevel": "6.0",
-					"internalLevelValue": 6,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "10",
-					"levelValue": 10,
-					"internalLevel": null,
-					"internalLevelValue": 10,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "14+",
-					"levelValue": 14.5,
-					"internalLevel": null,
-					"internalLevelValue": 14.5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "LaVI-Bavellabion",
-			"category": "POPS & ANIME",
-			"title": "LaVI-Bavellabion",
-			"artist": "三木谷奈々 SLAVE.V-V-R",
-			"bpm": null,
-			"imageName": "337510f8203896c68e9abc8cc3396fe637b01141adbd2d031764329a167ce435.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "2",
-					"levelValue": 2,
-					"internalLevel": "2.0",
-					"internalLevelValue": 2,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "5",
-					"levelValue": 5,
-					"internalLevel": "5.0",
-					"internalLevelValue": 5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "9+",
-					"levelValue": 9.5,
-					"internalLevel": "9.5",
-					"internalLevelValue": 9.5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "13+",
-					"levelValue": 13.5,
-					"internalLevel": null,
-					"internalLevelValue": 13.5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "奇々解体",
-			"category": "VARIETY",
-			"title": "奇々解体",
-			"artist": "MURASAKI/かたたかんな",
-			"bpm": null,
-			"imageName": "2225f07bf689e768da73741a4d8e90c182e65c2f48cabcff43bd4e28dc732a00.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "2",
-					"levelValue": 2,
-					"internalLevel": "2.0",
-					"internalLevelValue": 2,
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -178621,6 +178724,418 @@
 					"levelValue": 13,
 					"internalLevel": null,
 					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "風呂入るプロファイル",
+			"category": "niconico",
+			"title": "風呂入るプロファイル",
+			"artist": "もちうつね",
+			"bpm": null,
+			"imageName": "af254525f16064f27d0a444b745b877e46c11eb58343e41d7de2c41901043a98.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "9+",
+					"levelValue": 9.5,
+					"internalLevel": "9.5",
+					"internalLevelValue": 9.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "SAN値直葬",
+			"category": "niconico",
+			"title": "SAN値直葬",
+			"artist": "STEAKA",
+			"bpm": null,
+			"imageName": "143501daa76bc2f5d97208874f198e84c2bb98b2d78d6137f8e7733d5f87da89.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": "4.0",
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.5,
+					"internalLevel": null,
+					"internalLevelValue": 12.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "15",
+					"levelValue": 15,
+					"internalLevel": null,
+					"internalLevelValue": 15,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "コンクエスト・チャレンジ",
+			"category": "ORIGINAL",
+			"title": "コンクエスト・チャレンジ",
+			"artist": "サツキ feat.ろん",
+			"bpm": null,
+			"imageName": "99bd452f53753e28769597a73dba3f3b541afaee1f3cef1d992e9e7d55045f9c.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": "4.0",
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "8+",
+					"levelValue": 8.5,
+					"internalLevel": "8.5",
+					"internalLevelValue": 8.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.5,
+					"internalLevel": null,
+					"internalLevelValue": 14.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "ハイボルテージガール",
+			"category": "ORIGINAL",
+			"title": "ハイボルテージガール",
+			"artist": "マサラダ feat.あられ",
+			"bpm": null,
+			"imageName": "5acdf24e61b799b9f99a08a19d789187e54259c327976620d23167faf4f8647a.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": true,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11+",
+					"levelValue": 11.5,
+					"internalLevel": null,
+					"internalLevelValue": 11.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -178823,5 +179338,5 @@
 			"name": "海外版 (International ver.)"
 		}
 	],
-	"updateTime": "2026-10-07T07:52:57.354Z"
+	"updateTime": "2026-10-08T08:09:17.200Z"
 }
