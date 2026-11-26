@@ -2517,6 +2517,117 @@
 			]
 		},
 		{
+			"songId": "(WE) アージェントシンメトリー",
+			"category": "WORLD'S END",
+			"title": "アージェントシンメトリー",
+			"artist": "Sta feat.b",
+			"bpm": null,
+			"imageName": "c966b2b2b445da0a7654abb7819f518bec97618cbe8305c85f4d882dda5356f4.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "we",
+					"difficulty": "【両】",
+					"level": "☆☆",
+					"levelValue": 102,
+					"internalLevel": null,
+					"internalLevelValue": 0,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "(WE) Aleph-0",
+			"category": "WORLD'S END",
+			"title": "Aleph-0",
+			"artist": "LeaF",
+			"bpm": null,
+			"imageName": "1e1eb7d571ee11ad81eddfd44d508ade2adcac525e6118c82d8fcbd1bfe227d6.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "we",
+					"difficulty": "【両】",
+					"level": "☆☆☆",
+					"levelValue": 103,
+					"internalLevel": null,
+					"internalLevelValue": 0,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
+			"songId": "(WE) サドマミホリック",
+			"category": "WORLD'S END",
+			"title": "サドマミホリック",
+			"artist": "ビートまりお（COOL&CREATE）",
+			"bpm": null,
+			"imageName": "25fe53d2f53d677d085fa15396a38fb2da9c210019257a67a3ca44e7a6c6e6a3.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "we",
+					"difficulty": "【両】",
+					"level": "☆☆☆☆☆",
+					"levelValue": 105,
+					"internalLevel": null,
+					"internalLevelValue": 0,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": true
+				}
+			]
+		},
+		{
 			"songId": "B.B.K.K.B.K.K.",
 			"category": "VARIETY",
 			"title": "B.B.K.K.B.K.K.",
@@ -174129,6 +174240,109 @@
 			]
 		},
 		{
+			"songId": "PEACE BREAKER",
+			"category": "VARIETY",
+			"title": "PEACE BREAKER",
+			"artist": "Omnipotenx",
+			"bpm": null,
+			"imageName": "1fa0976ce6af25fd34dc4a0a60262a166229c02500511d7e01c33ce0501f5954.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": "4.0",
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7+",
+					"levelValue": 7.5,
+					"internalLevel": "7.5",
+					"internalLevelValue": 7.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "13+",
+					"levelValue": 13.5,
+					"internalLevel": null,
+					"internalLevelValue": 13.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "15",
+					"levelValue": 15,
+					"internalLevel": null,
+					"internalLevelValue": 15,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
 			"songId": "Honey Bear",
 			"category": "ゲキマイ",
 			"title": "Honey Bear",
@@ -179073,6 +179287,1036 @@
 			]
 		},
 		{
+			"songId": "狂命",
+			"category": "ORIGINAL",
+			"title": "狂命",
+			"artist": "Capchii feat. ChumuNote",
+			"bpm": null,
+			"imageName": "31be6a4d660691b8993540a3f36505e8390d054fb13508599dc490a49e41e6c1.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": "4.0",
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "13+",
+					"levelValue": 13.5,
+					"internalLevel": null,
+					"internalLevelValue": 13.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "15",
+					"levelValue": 15,
+					"internalLevel": null,
+					"internalLevelValue": 15,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "ふたりのスタートボタン",
+			"category": "POPS & ANIME",
+			"title": "ふたりのスタートボタン",
+			"artist": "歌：リリー・ベイカー（CV：天城サリー）、草壁葵衣（CV：小山内怜央） 作詞・作編曲：TAG「ゲーセン少女と異文化交流」",
+			"bpm": null,
+			"imageName": "6270e7dffeb9cddcdcb6620e54d4ed72abb9b7cdcc5d70221c7cdb1e7998c523.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": "9.0",
+					"internalLevelValue": 9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Amusing Flavor",
+			"category": "POPS & ANIME",
+			"title": "Amusing Flavor",
+			"artist": "歌：リリー・ベイカー（CV：天城サリー） 作詞・作編曲：t+pazolite「ゲーセン少女と異文化交流」",
+			"bpm": null,
+			"imageName": "0ce9cebc3b3afa947d7ffb79253f41931c4da115e5da0c3afebfd5bb419e5ab0.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": "4.0",
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": "8.0",
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "12+",
+					"levelValue": 12.5,
+					"internalLevel": null,
+					"internalLevelValue": 12.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "ぴるぐライド!",
+			"category": "VARIETY",
+			"title": "ぴるぐライド!",
+			"artist": "MOSAIC.WAV「MUSIC DIVER」",
+			"bpm": null,
+			"imageName": "d953b52f75b904401116d8be6d733d2d3a56828d8b3e6462e8f1ac5cb5703d2b.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": "5.0",
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "10+",
+					"levelValue": 10.5,
+					"internalLevel": null,
+					"internalLevelValue": 10.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Dark Falchion",
+			"category": "VARIETY",
+			"title": "Dark Falchion",
+			"artist": "MASAKI(ZUNTATA)「MUSIC DIVER」",
+			"bpm": null,
+			"imageName": "1b17d651f3c03652bfeeb954ba5864bdb349d48067aa4aa7fe74462a1b11e981.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "15",
+					"levelValue": 15,
+					"internalLevel": null,
+					"internalLevelValue": 15,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Metaverse Do Be Like This",
+			"category": "VARIETY",
+			"title": "Metaverse Do Be Like This",
+			"artist": "かめりあ「MUSIC DIVER」",
+			"bpm": null,
+			"imageName": "f69feff8e3be2fdf23253d9774d27bb698edb038470cb593a096830617aa5069.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": "4.0",
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "8",
+					"levelValue": 8,
+					"internalLevel": "8.0",
+					"internalLevelValue": 8,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "13+",
+					"levelValue": 13.5,
+					"internalLevel": null,
+					"internalLevelValue": 13.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14+",
+					"levelValue": 14.5,
+					"internalLevel": null,
+					"internalLevelValue": 14.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "HYPER SAMPLER",
+			"category": "VARIETY",
+			"title": "HYPER SAMPLER",
+			"artist": "EmoCosine「MUSIC DIVER」",
+			"bpm": null,
+			"imageName": "f86d79f199c10742c6aa5fe884766c2f872b5b174543288bb528a21920a7acb5.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "11",
+					"levelValue": 11,
+					"internalLevel": null,
+					"internalLevelValue": 11,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "Blur ℃ircuit",
+			"category": "ORIGINAL",
+			"title": "Blur ℃ircuit",
+			"artist": "Ryo Fukuda",
+			"bpm": null,
+			"imageName": "74a72e289f2d208b6745770fee09319299ead58ccec327a91a23ae4fdf43cfd5.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "3",
+					"levelValue": 3,
+					"internalLevel": "3.0",
+					"internalLevelValue": 3,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "7",
+					"levelValue": 7,
+					"internalLevel": "7.0",
+					"internalLevelValue": 7,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "13+",
+					"levelValue": 13.5,
+					"internalLevel": null,
+					"internalLevelValue": 13.5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "15",
+					"levelValue": 15,
+					"internalLevel": null,
+					"internalLevelValue": 15,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "EVERYTHING I CAN LAYER",
+			"category": "ORIGINAL",
+			"title": "EVERYTHING I CAN LAYER",
+			"artist": "Alicemetix",
+			"bpm": null,
+			"imageName": "7e84460ddee6099adac2b508c9403facde117809a72e0681fafcfb09f4d25754.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": "5.0",
+					"internalLevelValue": 5,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": "9.0",
+					"internalLevelValue": 9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "14",
+					"levelValue": 14,
+					"internalLevel": null,
+					"internalLevelValue": 14,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "15",
+					"levelValue": 15,
+					"internalLevel": null,
+					"internalLevelValue": 15,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
+			"songId": "星界のプレアデス",
+			"category": "ORIGINAL",
+			"title": "星界のプレアデス",
+			"artist": "Snail's House",
+			"bpm": null,
+			"imageName": "9a40d1f5f301af3170c4c51e2acd1e7c65bbb857d3c4b590fc43f6f0a28ca754.png",
+			"version": null,
+			"releaseDate": null,
+			"isNew": false,
+			"isLocked": null,
+			"comment": null,
+			"sheets": [
+				{
+					"type": "std",
+					"difficulty": "basic",
+					"level": "1",
+					"levelValue": 1,
+					"internalLevel": "1.0",
+					"internalLevelValue": 1,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "advanced",
+					"level": "4",
+					"levelValue": 4,
+					"internalLevel": "4.0",
+					"internalLevelValue": 4,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "expert",
+					"level": "9",
+					"levelValue": 9,
+					"internalLevel": "9.0",
+					"internalLevelValue": 9,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				},
+				{
+					"type": "std",
+					"difficulty": "master",
+					"level": "13",
+					"levelValue": 13,
+					"internalLevel": null,
+					"internalLevelValue": 13,
+					"noteDesigner": null,
+					"noteCounts": {
+						"tap": null,
+						"hold": null,
+						"slide": null,
+						"air": null,
+						"flick": null,
+						"total": null
+					},
+					"regions": {
+						"jp": true,
+						"intl": false
+					},
+					"isSpecial": false
+				}
+			]
+		},
+		{
 			"songId": "Hello! My World!!",
 			"category": "VARIETY",
 			"title": "Hello! My World!!",
@@ -179588,12 +180832,12 @@
 			]
 		},
 		{
-			"songId": "狂命",
-			"category": "ORIGINAL",
-			"title": "狂命",
-			"artist": "Capchii feat. ChumuNote",
+			"songId": "The Cursed Doll",
+			"category": "ゲキマイ",
+			"title": "The Cursed Doll",
+			"artist": "清風明月（Drop×葉月ゆら）",
 			"bpm": null,
-			"imageName": "31be6a4d660691b8993540a3f36505e8390d054fb13508599dc490a49e41e6c1.png",
+			"imageName": "f0042730688c7ed418a01e06ed595a807b985dc8140a01b2d64e76046bdccd85.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -179603,10 +180847,10 @@
 				{
 					"type": "std",
 					"difficulty": "basic",
-					"level": "4",
-					"levelValue": 4,
-					"internalLevel": "4.0",
-					"internalLevelValue": 4,
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -179625,10 +180869,10 @@
 				{
 					"type": "std",
 					"difficulty": "advanced",
-					"level": "11",
-					"levelValue": 11,
-					"internalLevel": null,
-					"internalLevelValue": 11,
+					"level": "5",
+					"levelValue": 5,
+					"internalLevel": "5.0",
+					"internalLevelValue": 5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -179647,10 +180891,10 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "13+",
-					"levelValue": 13.5,
+					"level": "10",
+					"levelValue": 10,
 					"internalLevel": null,
-					"internalLevelValue": 13.5,
+					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -179669,10 +180913,10 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "15",
-					"levelValue": 15,
+					"level": "13+",
+					"levelValue": 13.5,
 					"internalLevel": null,
-					"internalLevelValue": 15,
+					"internalLevelValue": 13.5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -179691,12 +180935,12 @@
 			]
 		},
 		{
-			"songId": "ふたりのスタートボタン",
-			"category": "POPS & ANIME",
-			"title": "ふたりのスタートボタン",
-			"artist": "歌：リリー・ベイカー（CV：天城サリー）、草壁葵衣（CV：小山内怜央） 作詞・作編曲：TAG「ゲーセン少女と異文化交流」",
+			"songId": "oboro",
+			"category": "ゲキマイ",
+			"title": "oboro",
+			"artist": "ヒゲドライバー",
 			"bpm": null,
-			"imageName": "6270e7dffeb9cddcdcb6620e54d4ed72abb9b7cdcc5d70221c7cdb1e7998c523.png",
+			"imageName": "bfa559c39f09c6a62caba0e07e623064cac1a44016e92dc3fcb9c8fff87276ba.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -179750,212 +180994,6 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "9",
-					"levelValue": 9,
-					"internalLevel": "9.0",
-					"internalLevelValue": 9,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "13",
-					"levelValue": 13,
-					"internalLevel": null,
-					"internalLevelValue": 13,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "Amusing Flavor",
-			"category": "POPS & ANIME",
-			"title": "Amusing Flavor",
-			"artist": "歌：リリー・ベイカー（CV：天城サリー） 作詞・作編曲：t+pazolite「ゲーセン少女と異文化交流」",
-			"bpm": null,
-			"imageName": "0ce9cebc3b3afa947d7ffb79253f41931c4da115e5da0c3afebfd5bb419e5ab0.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "4",
-					"levelValue": 4,
-					"internalLevel": "4.0",
-					"internalLevelValue": 4,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "8",
-					"levelValue": 8,
-					"internalLevel": "8.0",
-					"internalLevelValue": 8,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
-					"level": "12+",
-					"levelValue": 12.5,
-					"internalLevel": null,
-					"internalLevelValue": 12.5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "master",
-					"level": "14",
-					"levelValue": 14,
-					"internalLevel": null,
-					"internalLevelValue": 14,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				}
-			]
-		},
-		{
-			"songId": "ぴるぐライド!",
-			"category": "VARIETY",
-			"title": "ぴるぐライド!",
-			"artist": "MOSAIC.WAV「MUSIC DIVER」",
-			"bpm": null,
-			"imageName": "d953b52f75b904401116d8be6d733d2d3a56828d8b3e6462e8f1ac5cb5703d2b.png",
-			"version": null,
-			"releaseDate": null,
-			"isNew": true,
-			"isLocked": null,
-			"comment": null,
-			"sheets": [
-				{
-					"type": "std",
-					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": "3.0",
-					"internalLevelValue": 3,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "advanced",
-					"level": "5",
-					"levelValue": 5,
-					"internalLevel": "5.0",
-					"internalLevelValue": 5,
-					"noteDesigner": null,
-					"noteCounts": {
-						"tap": null,
-						"hold": null,
-						"slide": null,
-						"air": null,
-						"flick": null,
-						"total": null
-					},
-					"regions": {
-						"jp": true,
-						"intl": false
-					},
-					"isSpecial": false
-				},
-				{
-					"type": "std",
-					"difficulty": "expert",
 					"level": "10+",
 					"levelValue": 10.5,
 					"internalLevel": null,
@@ -179978,10 +181016,10 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "14",
-					"levelValue": 14,
+					"level": "13+",
+					"levelValue": 13.5,
 					"internalLevel": null,
-					"internalLevelValue": 14,
+					"internalLevelValue": 13.5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180000,12 +181038,12 @@
 			]
 		},
 		{
-			"songId": "Dark Falchion",
-			"category": "VARIETY",
-			"title": "Dark Falchion",
-			"artist": "MASAKI(ZUNTATA)「MUSIC DIVER」",
+			"songId": "Glitter-Glitter",
+			"category": "ゲキマイ",
+			"title": "Glitter-Glitter",
+			"artist": "曲：睦月周平／歌：星咲 あかり(CV：赤尾 ひかる)",
 			"bpm": null,
-			"imageName": "1b17d651f3c03652bfeeb954ba5864bdb349d48067aa4aa7fe74462a1b11e981.png",
+			"imageName": "a824b433a965440f38838f6eec3205dd7a7a183cce5893c241808e4c63ef1753.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -180015,10 +181053,10 @@
 				{
 					"type": "std",
 					"difficulty": "basic",
-					"level": "3",
-					"levelValue": 3,
-					"internalLevel": "3.0",
-					"internalLevelValue": 3,
+					"level": "2",
+					"levelValue": 2,
+					"internalLevel": "2.0",
+					"internalLevelValue": 2,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180037,10 +181075,10 @@
 				{
 					"type": "std",
 					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": "7.0",
-					"internalLevelValue": 7,
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180059,10 +181097,10 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "13",
-					"levelValue": 13,
+					"level": "10",
+					"levelValue": 10,
 					"internalLevel": null,
-					"internalLevelValue": 13,
+					"internalLevelValue": 10,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180081,10 +181119,10 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "15",
-					"levelValue": 15,
+					"level": "13",
+					"levelValue": 13,
 					"internalLevel": null,
-					"internalLevelValue": 15,
+					"internalLevelValue": 13,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180103,12 +181141,12 @@
 			]
 		},
 		{
-			"songId": "Metaverse Do Be Like This",
-			"category": "VARIETY",
-			"title": "Metaverse Do Be Like This",
-			"artist": "かめりあ「MUSIC DIVER」",
+			"songId": "Zitronectar",
+			"category": "ゲキマイ",
+			"title": "Zitronectar",
+			"artist": "Reku Mochizuki",
 			"bpm": null,
-			"imageName": "f69feff8e3be2fdf23253d9774d27bb698edb038470cb593a096830617aa5069.png",
+			"imageName": "6bcd51116496df16ffd305c989a2168b059388b503f0a4ab940e71d1ed527f0f.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -180140,10 +181178,10 @@
 				{
 					"type": "std",
 					"difficulty": "advanced",
-					"level": "8",
-					"levelValue": 8,
-					"internalLevel": "8.0",
-					"internalLevelValue": 8,
+					"level": "7+",
+					"levelValue": 7.5,
+					"internalLevel": "7.5",
+					"internalLevelValue": 7.5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180162,10 +181200,10 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "13+",
-					"levelValue": 13.5,
+					"level": "12",
+					"levelValue": 12,
 					"internalLevel": null,
-					"internalLevelValue": 13.5,
+					"internalLevelValue": 12,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180206,12 +181244,12 @@
 			]
 		},
 		{
-			"songId": "HYPER SAMPLER",
-			"category": "VARIETY",
-			"title": "HYPER SAMPLER",
-			"artist": "EmoCosine「MUSIC DIVER」",
+			"songId": "Earthly Light",
+			"category": "ゲキマイ",
+			"title": "Earthly Light",
+			"artist": "曲：ヘリP／歌：Trium Tone＆⊿TRiEDGE",
 			"bpm": null,
-			"imageName": "f86d79f199c10742c6aa5fe884766c2f872b5b174543288bb528a21920a7acb5.png",
+			"imageName": "31a2140d918c8e364ab0b222cd45397f809541e6fc31a847fc841ae88fb15562.png",
 			"version": null,
 			"releaseDate": null,
 			"isNew": true,
@@ -180243,10 +181281,10 @@
 				{
 					"type": "std",
 					"difficulty": "advanced",
-					"level": "7",
-					"levelValue": 7,
-					"internalLevel": "7.0",
-					"internalLevelValue": 7,
+					"level": "6",
+					"levelValue": 6,
+					"internalLevel": "6.0",
+					"internalLevelValue": 6,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180265,10 +181303,10 @@
 				{
 					"type": "std",
 					"difficulty": "expert",
-					"level": "11",
-					"levelValue": 11,
+					"level": "10+",
+					"levelValue": 10.5,
 					"internalLevel": null,
-					"internalLevelValue": 11,
+					"internalLevelValue": 10.5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180287,10 +181325,10 @@
 				{
 					"type": "std",
 					"difficulty": "master",
-					"level": "14",
-					"levelValue": 14,
+					"level": "14+",
+					"levelValue": 14.5,
 					"internalLevel": null,
-					"internalLevelValue": 14,
+					"internalLevelValue": 14.5,
 					"noteDesigner": null,
 					"noteCounts": {
 						"tap": null,
@@ -180493,5 +181531,5 @@
 			"name": "海外版 (International ver.)"
 		}
 	],
-	"updateTime": "2026-11-25T10:40:31.604Z"
+	"updateTime": "2026-11-26T10:10:52.399Z"
 }
